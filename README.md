@@ -6,7 +6,7 @@ GitHub：[ipader/SwiftGuide](https://github.com/ipader/SwiftGuide) ｜ 网站：
 
 > 想了解关于该指南及 Swift 更多信息的同学，可以阅读短文《[致 Swift 开发者](https://github.com/ipader/SwiftGuide/blob/master/2014%20letter.md)》。 想快速找到优秀开源项目的开发者，可以访问我们额外整理的[《Swift 项目精选》](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)。希望快速找到其中精选文章，可以访问[《Swift 文章精选》](https://github.com/ipader/SwiftGuide/blob/master/Featured-Articles.md)。
 
-<span style="color:lightgray;font-size:12px">[@SwiftLanguage](http://weibo.com/swiftlanguage) 更新于 2015-12-20，更新内容详见[《Issue 42》](https://github.com/ipader/SwiftGuide/blob/master/weekly/Issue-42.md)</span>
+<span style="color:lightgray;font-size:12px">[@SwiftLanguage](http://weibo.com/swiftlanguage) 更新于 2016-1-5，更新内容详见[《Issue 43》](https://github.com/ipader/SwiftGuide/blob/master/weekly/Issue-43.md)</span>
 
 ## 目录
 * [Swift 文档](#swift_doc)
@@ -683,6 +683,8 @@ of iOS and OSX libraries）](http://www.swifttoolbox.io/) (By [Adam Leonard](htt
 * [beltex/dshb](https://github.com/beltex/dshb)：OS X 系统状态（CPU、电池、内存、温度传感器、风扇及杂项）监视器应用。每秒刷新文本界面，极低系统开销。
 * [nscoding/sleep-osx](https://github.com/nscoding/sleep-osx)：在 Spotlight 中输入 sleep 即休眠你的 Mac。实现特别简单，几行代码而已。
 * [dasdom/Tomate](https://github.com/dasdom/Tomate)：这个圆盘式计时器让你更专注于工作或学习。P.S. [App Store 上架收费应用](https://itunes.apple.com/de/app/fojusi/id923044693)（0.99 欧），开发者福利呀。
+* [doushiDev/ds_ios](https://github.com/doushiDev/ds_ios)：逗视-搞笑视频聚集地，Swift2.x编写.已经上传[App Store](https://itunes.apple.com/cn/app/id1044917946)
+
 
 ### <a id="project_reviews"></a>3. 项目评测
 * [【Workflow 测评】Workflow 是款什么软件？](http://jbguide.me/2014/12/18/workflow-review-what-is-workflow/)（作者：[@JailbreakHum](http://weibo.com/jailbreakhum)）："除了圣诞降价以外最近最火的软件话题应当是 #Workflow# 了。如果你没接触过此类软件,或许会纳闷它有何魅力。我们针对这款软件的测评系列的第一篇就是来向你概述它是什么软件的,所以文中给出大多是基本知识,不过相信也会给老手一定的启发。"
@@ -700,6 +702,7 @@ of iOS and OSX libraries）](http://www.swifttoolbox.io/) (By [Adam Leonard](htt
 * [Appcoda.com](http://www.appcoda.com/):质量很高的一个 iOS 开发教程站，其中[iOS Programming Course](http://www.appcoda.com/ios-programming-course/)这个专题很适合刚接触 iOS 开发的新手学习。
 * [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)：By [@唐巧_body](http://weibo.com/tangqiaoboy)
 * [devtalking.com](http://www.devtalking.com/)：高产的中译博客。翻译了官方博客 Swift Blog - Apple Developer,《App Extension Programming Guide》。参与翻译了《Swift Programming Language》等。
+* [SwiftGG](http://swift.gg/)：一个走心的 Swift 翻译组，由《The Swift Programming Language》中文版翻译团队原班人马组成， 翻译的文章来源于国外的优秀 Swift 网站和博客，且全部获得作者和网站授权。
 
 * **<a id="recomm_resources"></a>资源合集：以下是其它开发者社区或 Swift 爱好者整理的有关 Swift 语言学习的资源列表。**
 	* [SwiftEducation](https://github.com/SwiftEducation)：“这是建立在 GitHub 上的一个 Swift 学习资料汇集，包括了有关幻灯和多个练手的应用程序源码。By @极客头条”。的确有不少基础实用的好[教程](https://github.com/SwiftEducation/presentations)。这对于基础学起的同学有福了。
